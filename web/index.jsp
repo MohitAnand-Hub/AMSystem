@@ -62,7 +62,7 @@
         </div>
     </header>
     <div class="footer">
-       FlyAway by Abhinov Gogoi
+       FlyAway by CoforgeTeam
     </div>
 </body>
 </html>
